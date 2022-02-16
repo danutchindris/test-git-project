@@ -1,1 +1,2 @@
-Acesta e un fisier de test.
+Acesta e un fisier text de test.
+Inca un rand de text.
