@@ -1,2 +1,2 @@
 Acesta e un fisier text de test.
-Inca un rand de text.
+Inca un rand de text...
